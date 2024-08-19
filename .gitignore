@@ -1,0 +1,23 @@
+# Ignore specific directories
+fakeaudiorealvideoscores-1/
+FakeAVCeleb_v1.2/
+ESResNeXt-fbsp/
+data/
+logs/
+newscores/
+scores/
+testVideos/
+weights/
+fakeaudiorealvideoscores-1
+FakeAVCeleb_v1.2
+fakevideofakeaudifaceswap-4
+fakevideofakeaudiofsgan-3
+fakevideorealaudio-2
+scores2
+
+# Ignore specific output files
+output_fft_audio.mp4
+output_fft_video.mp4
+real_output_fft_video.mp4
+real_output_fft_audio.mp4
+Anaconda3-2024.02-1-Linux-x86_64.sh
